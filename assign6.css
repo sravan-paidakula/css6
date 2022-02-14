@@ -1,0 +1,386 @@
+@media only screen and (min-width:856px) {
+    
+    
+body{
+    background-image: url(sahara.jpg);
+}
+.cam{
+   height: 90px;
+   width: 90px;
+   position: relative;
+   top: 70px;
+   left: 90px;
+}
+.a{
+    display: block;
+    position: relative;
+    left: 100px;
+    top: 180px;
+    color: white;
+    font-size: 26px;
+}
+.sahara{
+    font-size: 95px;
+}
+button{
+    height: 50px;
+    width: 250px;
+    border-radius: 30px;
+    border: none;
+    font-size: 20px;
+}
+.b{
+    display: inline;
+    position: relative;
+    left: 900px;
+    
+}
+.ba{
+    text-decoration: none;
+    margin: 40px;
+    font-size: 20px;
+    color: white;
+}
+.bb{
+    text-decoration: none;
+    margin: 40px;
+    font-size: 20px;
+    color: white;
+}
+.bc{
+    text-decoration: none;
+    margin: 40px;
+    font-size: 20px;
+    color: white;
+}
+.grid{
+    display: grid;
+    grid-template-columns: auto auto;
+    border: 0px solid ;
+    height: 500px;
+    width: 700px;
+    position: relative;
+    left: 800px;
+    bottom: 200px;
+    color: white;
+    cursor: pointer;
+    transition-duration: 0.5s;
+    
+}
+.c{
+    background: url(./camwalk.jfif);
+    background-size: cover;
+    padding-top: 20px;
+    padding-left: 20px;
+    border: 0px solid ;
+    /* height: 200px;
+    width: 250px; */
+    border-radius: 10px;
+    margin: 10px;
+    cursor: pointer;
+    transition-duration: 0.5s;
+}
+.d{
+    padding-top: 20px;
+    padding-left: 20px;
+    background: url(./hills.png);
+    background-size: cover;
+    border: 0px solid ;
+    /* height: 200px;
+    width: 250px;  */
+    justify-content: center;
+    border-radius: 10px;
+    margin: 10px;
+    cursor: pointer;
+    transition-duration: 0.5s;
+}
+.e{
+    padding-top: 20px;
+    padding-left: 20px;
+    background: url(./pyramid.png);
+    background-size: cover;
+    border: 0px solid ;
+    /* height: 200px;
+    width: 250px; */
+    border-radius: 10px;
+    margin: 10px;
+    cursor: pointer;
+    transition-duration: 0.5s;
+}
+.f{
+    padding-top: 20px;
+    padding-left: 20px;
+    background: url(./bluesky.png);
+    background-size: cover;
+    border: 0px solid ;
+    /* height: 200px;
+    width: 250px; */
+    border-radius: 10px;
+    margin: 10px;
+    cursor: pointer;
+    transition-duration: 0.5s;
+    
+}
+.c:hover{
+    transform: translateY(-10px);
+}
+.d:hover{
+    transform: translateY(-10px);
+}
+.e:hover{
+    transform: translateY(-10px);
+}
+.f:hover{
+    transform: translateY(-10px);
+}
+}
+@media only screen  and (min-width:360px)and (max-width:856px) {
+    body{
+        background-image: url(sahara.jpg);
+    }
+    .cam{
+       height: 60px;
+       width: 60px;
+       position: relative;
+       top: 40px;
+       left: 40px;
+    }
+    .a{
+        display: block;
+        position: relative;
+        left:40px;
+        top: 40px;
+        color: white;
+        font-size: 26px;
+    }
+    .sahara{
+        font-size: 40px;
+    }
+    button{
+        height: 50px;
+        width: 250px;
+        border-radius: 30px;
+        border: none;
+        font-size: 20px;
+    }
+    .b{
+        display: inline;
+        position: relative;
+        left: 300px;
+        
+    }
+    .ba{
+        text-decoration: none;
+        margin: 20px;
+        font-size: 20px;
+        color: white;
+    }
+    .bb{
+        text-decoration: none;
+        margin: 20px;
+        font-size: 20px;
+        color: white;
+    }
+    .bc{
+        text-decoration: none;
+        margin: 20px;
+        font-size: 20px;
+        color: white;
+    }
+    .grid{
+        display: grid;
+        grid-template-columns:  auto;
+        border: 0px solid ;
+        height: 500px;
+        width: 500px;
+        position: relative;
+        left: 250px;
+        bottom: -50px;
+        color: white;
+        cursor: pointer;
+        transition-duration: 0.5s;
+        
+    }
+    .c{
+        background: url(./camwalk.jfif);
+        background-size: cover;
+        padding-top: 20px;
+        padding-left: 20px;
+        border: 0px solid ;
+        /* height: 200px;
+        width: 250px; */
+        border-radius: 10px;
+        margin: 10px;
+        cursor: pointer;
+        transition-duration: 0.5s;
+    }
+    .d{
+        padding-top: 20px;
+        padding-left: 20px;
+        background: url(./hills.png);
+        background-size: cover;
+        border: 0px solid ;
+        /* height: 200px;
+        width: 250px;  */
+        justify-content: center;
+        border-radius: 10px;
+        margin: 10px;
+        cursor: pointer;
+        transition-duration: 0.5s;
+    }
+    .e{
+        padding-top: 20px;
+        padding-left: 20px;
+        background: url(./pyramid.png);
+        background-size: cover;
+        border: 0px solid ;
+        /* height: 200px;
+        width: 250px; */
+        border-radius: 10px;
+        margin: 10px;
+        cursor: pointer;
+        transition-duration: 0.5s;
+    }
+    .f{
+        padding-top: 20px;
+        padding-left: 20px;
+        background: url(./bluesky.png);
+        background-size: cover;
+        border: 0px solid ;
+        /* height: 200px;
+        width: 250px; */
+        border-radius: 10px;
+        margin: 10px;
+        cursor: pointer;
+        transition-duration: 0.5s;
+        
+    }
+    .grid:hover{
+        transform: translateY(-10px);
+    }
+}
+@media only screen  and (min-width:0px)and (max-width:360px) {
+    body{
+        background-image: url(sahara.jpg);
+    }
+    .cam{
+       height: 60px;
+       width: 60px;
+       position: relative;
+       top: 40px;
+       left: 40px;
+    }
+    .a{
+        display: block;
+        position: relative;
+        left:40px;
+        top: 40px;
+        color: white;
+        font-size: 26px;
+    }
+    .sahara{
+        font-size: 40px;
+    }
+    button{
+        height: 50px;
+        width: 250px;
+        border-radius: 30px;
+        border: none;
+        font-size: 20px;
+    }
+    .b{
+        display: inline;
+        position: relative;
+        left: 300px;
+        
+    }
+    .ba{
+        text-decoration: none;
+        margin: 20px;
+        font-size: 20px;
+        color: white;
+    }
+    .bb{
+        text-decoration: none;
+        margin: 20px;
+        font-size: 20px;
+        color: white;
+    }
+    .bc{
+        text-decoration: none;
+        margin: 20px;
+        font-size: 20px;
+        color: white;
+    }
+    .grid{
+        display: grid;
+        grid-template-columns:  auto;
+        border: 0px solid ;
+        height: 500px;
+        width: 500px;
+        position: relative;
+        left: 250px;
+        bottom: -50px;
+        color: white;
+        cursor: pointer;
+        transition-duration: 0.5s;
+        
+    }
+    .c{
+        background: url(./camwalk.jfif);
+        background-size: cover;
+        padding-top: 20px;
+        padding-left: 20px;
+        border: 0px solid ;
+        /* height: 200px;
+        width: 250px; */
+        border-radius: 10px;
+        margin: 10px;
+        cursor: pointer;
+        transition-duration: 0.5s;
+    }
+    .d{
+        padding-top: 20px;
+        padding-left: 20px;
+        background: url(./hills.png);
+        background-size: cover;
+        border: 0px solid ;
+        /* height: 200px;
+        width: 250px;  */
+        justify-content: center;
+        border-radius: 10px;
+        margin: 10px;
+        cursor: pointer;
+        transition-duration: 0.5s;
+    }
+    .e{
+        padding-top: 20px;
+        padding-left: 20px;
+        background: url(./pyramid.png);
+        background-size: cover;
+        border: 0px solid ;
+        /* height: 200px;
+        width: 250px; */
+        border-radius: 10px;
+        margin: 10px;
+        cursor: pointer;
+        transition-duration: 0.5s;
+    }
+    .f{
+        padding-top: 20px;
+        padding-left: 20px;
+        background: url(./bluesky.png);
+        background-size: cover;
+        border: 0px solid ;
+        /* height: 200px;
+        width: 250px; */
+        border-radius: 10px;
+        margin: 10px;
+        cursor: pointer;
+        transition-duration: 0.5s;
+        
+    }
+    .grid:hover{
+        transform: translateY(-10px);
+    }
+}
